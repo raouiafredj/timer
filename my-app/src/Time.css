@@ -1,0 +1,30 @@
+.time-container{
+text-align: center;
+
+
+
+}
+
+
+
+.timeContent{
+display: inline-block;
+
+
+}
+
+
+
+.time-digits{
+    
+    font-size: 4em;
+
+    
+}
+.time-text{
+
+    display: flex;
+    justify-content: space-around;
+    color: gray;
+
+}
